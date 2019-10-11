@@ -1,5 +1,5 @@
 def# Write your code here.
-badge_maker = [name]
+batch_badge_creator = []
 badge_maker.each (name) do
 puts "Hello ,my name is #{name}"
 badge_maker("rokhaya")
